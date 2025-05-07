@@ -38,3 +38,4 @@
 -----------------------------------------
 ![Apple Logo](https://github.com/Ironcapi/practica7mayo/blob/main/Apple_logo.svg)
 
+[descargar certificado pdf](https://github.com/Ironcapi/practica7mayo/blob/main/_certificate_322030180-upjr-edu-mx_0c375e73-013d-4d04-9521-6393f9657fe9.pdf)
