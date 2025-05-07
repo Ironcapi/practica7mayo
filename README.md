@@ -36,5 +36,5 @@
 
 1. Do another step.
 -----------------------------------------
-![Apple Logo]()
+![Apple Logo](https://github.com/Ironcapi/practica7mayo/blob/main/Apple_logo.svg)
 
